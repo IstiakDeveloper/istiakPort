@@ -1,11 +1,10 @@
 var typed = new Typed('.type', {
             strings: [
                 'istiak Hossain',
-                'a Developer',
-                'a Designer',
-                'and Freelancer'
+                'A freelancer',
+                ' Expert on wordpress'
                 ],
-                typeSpeed: 60,
-                backSpeed: 60,
+                typeSpeed: 90,
+                backSpeed: 120,
                 loop: true
             });
